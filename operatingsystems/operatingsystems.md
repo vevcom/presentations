@@ -34,9 +34,10 @@ Primærminne er minne som slettes når du skur av datamaskinen, altså RAM, Cach
 - Arkitekturspesifik! Assembly skrevet til en stasjonær PC (x86) må skrives på nytt om den skal kjøre på mobiltelefonen (ARM) din
 - Brukes egentlig bare når man må skvise ut maksimal ytelse (f.eks. i innvevde system eller lavnivå drivere)
 
-# Høynivåspråk
+# Enda et steg: Høynivåspråk
 
-- Oversettes til Assembly av en **kompilator**
+- Høynivå programmering
+- Oversettes til Assembly av en **compiler**/**kompilator**
 - Eller tolkes i sanntid av en **interpreter** uten å kompileres
 - Arkitekturuavhengig: Samme kode kan kjøres på forskjellige arktitekturer
 
