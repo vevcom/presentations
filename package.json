@@ -1,0 +1,20 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "A variety of presentations for new (and old) members.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vevcom/presentations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vevcom/presentations/issues"
+  },
+  "homepage": "https://github.com/vevcom/presentations#readme"
+}
